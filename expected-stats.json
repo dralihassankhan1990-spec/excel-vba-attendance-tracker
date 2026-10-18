@@ -1,0 +1,144 @@
+{
+  "employees": 15,
+  "total_absent": 25,
+  "total_late": 24,
+  "max_absent": 8,
+  "max_absent_emp": "Kamran Iqbal",
+  "per_employee": [
+    {
+      "employee": "Ayesha Khan",
+      "present": 25,
+      "absent": 2,
+      "late": 3,
+      "half": 0,
+      "tracked": 30,
+      "pct": 83.3
+    },
+    {
+      "employee": "Ahmed Raza",
+      "present": 26,
+      "absent": 1,
+      "late": 1,
+      "half": 2,
+      "tracked": 30,
+      "pct": 86.7
+    },
+    {
+      "employee": "Fatima Noor",
+      "present": 27,
+      "absent": 2,
+      "late": 0,
+      "half": 1,
+      "tracked": 30,
+      "pct": 90.0
+    },
+    {
+      "employee": "Usman Tariq",
+      "present": 22,
+      "absent": 1,
+      "late": 5,
+      "half": 2,
+      "tracked": 30,
+      "pct": 73.3
+    },
+    {
+      "employee": "Sana Malik",
+      "present": 26,
+      "absent": 1,
+      "late": 3,
+      "half": 0,
+      "tracked": 30,
+      "pct": 86.7
+    },
+    {
+      "employee": "Imran Sheikh",
+      "present": 27,
+      "absent": 1,
+      "late": 1,
+      "half": 1,
+      "tracked": 30,
+      "pct": 90.0
+    },
+    {
+      "employee": "Hina Aslam",
+      "present": 25,
+      "absent": 2,
+      "late": 0,
+      "half": 3,
+      "tracked": 30,
+      "pct": 83.3
+    },
+    {
+      "employee": "Kamran Iqbal",
+      "present": 17,
+      "absent": 8,
+      "late": 3,
+      "half": 2,
+      "tracked": 30,
+      "pct": 56.7
+    },
+    {
+      "employee": "Nadia Hussain",
+      "present": 29,
+      "absent": 1,
+      "late": 0,
+      "half": 0,
+      "tracked": 30,
+      "pct": 96.7
+    },
+    {
+      "employee": "Faisal Mahmood",
+      "present": 28,
+      "absent": 1,
+      "late": 1,
+      "half": 0,
+      "tracked": 30,
+      "pct": 93.3
+    },
+    {
+      "employee": "Rabia Anwar",
+      "present": 28,
+      "absent": 0,
+      "late": 2,
+      "half": 0,
+      "tracked": 30,
+      "pct": 93.3
+    },
+    {
+      "employee": "Shahid Latif",
+      "present": 25,
+      "absent": 2,
+      "late": 3,
+      "half": 0,
+      "tracked": 30,
+      "pct": 83.3
+    },
+    {
+      "employee": "Maria Siddiqui",
+      "present": 30,
+      "absent": 0,
+      "late": 0,
+      "half": 0,
+      "tracked": 30,
+      "pct": 100.0
+    },
+    {
+      "employee": "Tariq Aziz",
+      "present": 28,
+      "absent": 1,
+      "late": 1,
+      "half": 0,
+      "tracked": 30,
+      "pct": 93.3
+    },
+    {
+      "employee": "Saima Butt",
+      "present": 27,
+      "absent": 2,
+      "late": 1,
+      "half": 0,
+      "tracked": 30,
+      "pct": 90.0
+    }
+  ]
+}
